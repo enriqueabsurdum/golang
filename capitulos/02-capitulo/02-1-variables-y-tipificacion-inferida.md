@@ -66,5 +66,5 @@ Para mayor información visitar: [Go’s declaration Syntax](https://blog.golang
 ---
 <div align="right">
 
-[**Volver a Capítulo 2: Lo Básico**](https://github.com/enriqueabsurdum/TIDS02)
+[**Volver a Capítulo 2: Lo Básico**](https://github.com/enriqueabsurdum/golang/blob/master/capitulos/02-capitulo/02-0-capitulo-lo-basico.md)
 </div>   

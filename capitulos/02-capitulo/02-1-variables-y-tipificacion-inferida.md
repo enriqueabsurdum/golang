@@ -1,4 +1,4 @@
-# Variables y tipo inferido
+# 2.1 Variables y tipo inferido
 La palabra reservada `var` permite declarar una lista de variables, en donde el tipo se específica al final de cada sentencia.
 ```go
 var {

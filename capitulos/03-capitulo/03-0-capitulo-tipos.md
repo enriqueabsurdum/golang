@@ -1,0 +1,8 @@
+# Capítulo 3: Tipos
+Escribir aquí.
+
+---
+<div align="right">
+
+[**Volver a Inicio**](https://github.com/enriqueabsurdum/golang)
+</div>  

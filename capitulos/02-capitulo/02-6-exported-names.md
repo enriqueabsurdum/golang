@@ -1,4 +1,4 @@
-# Exported names
+# 2.6 Exported names
 
 ---
 <div align="right">

@@ -10,7 +10,7 @@ Referencia: http://www.golangbootcamp.com/
 ## **Contenidos**
 - [**Capítulo 1: Intro**]()
 - [**Capítulo 2: Lo Básico**]()
-  - 2.1 [Varibales y tipicación inferida]()
+  - 2.1 [Variables y tipo inferido]()
   - 2.2 [Constantes]()
   - 2.3 [Impresión de constantes y varibles]()
   - 2.4 [Sobre `package` e `import`]()
